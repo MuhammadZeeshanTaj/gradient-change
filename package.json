@@ -1,0 +1,15 @@
+{
+  "name": "last-message-sent",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d gradient-change"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://MuhammadZeeshanTaj.github.io/gradient-change",
+  "dependencies": {
+    "gh-pages": "^2.0.0"
+  }
+}
